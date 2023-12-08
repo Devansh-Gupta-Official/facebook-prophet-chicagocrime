@@ -1,6 +1,11 @@
 # Chicago Crime Analysis
 This project involves analyzing crime data from Chicago using Jupyter Notebook and Python. The dataset spans multiple years, from 2001 to 2017, and contains information about various crimes reported in the city.
 
+## Prophet Model
+- Install fbprophet package as follows: ```pip install prophet```
+- Prophet is an open source software released by Facebook's Core Data Science Team.
+- Used for forecasting time series data based on additive model when non-linear trends are fit with yearly, weekly and daily seasonality.
+
 ## Objective
 The primary goal of this analysis is to explore the dataset, understand trends, and make predictions using time series analysis.
 
@@ -22,7 +27,18 @@ The dataset comprises several CSV files for different time periods:
 3. Chicago_Crimes_2008_to_2011.csv
 4. Chicago_Crimes_2012_to_2017.csv
 
-## Data Import and PreprocessingDataset
+## Usage
+1. Clone the repository:
+   ```
+   git clone https://github.com/Devansh-Gupta-Official/facebook-prophet-chicagocrime.git
+   ```
+2. Install necessary Python dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Open and run the Jupyter Notebook (code.ipynb) using Jupyter or any compatible environment.
+
+## Data Import and Preprocessing
 The Jupyter Notebook includes steps for importing the data, handling potential issues (such as deprecated arguments and mixed data types), and initial exploration.
 
 ## Exploratory Data Analysis (EDA)
@@ -39,3 +55,7 @@ The project involves time series analysis to understand the trends in crime rate
 ### Making Predictions
 - Using the Prophet library to make predictions on future crime rates.
 - Visualizing the predicted crime rates along with confidence intervals.
+
+
+## Conclusion
+The analysis provides insights into the trends and patterns of crimes reported in Chicago over the years, aiding in understanding the dynamics and possibly helping in future crime rate predictions.
