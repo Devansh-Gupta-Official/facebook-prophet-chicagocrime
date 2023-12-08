@@ -20,9 +20,9 @@ The primary goal of this analysis is to explore the dataset, understand trends, 
   - Prophet
 
 ## Dataset
-The Chicago Crime dataset contains a summary of the reported crimes occurred in the City of Chicago from 2001 to 2017. 
-Dataset has been obtained from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.
-Dataset contains the following columns: 
+- The Chicago Crime dataset contains a summary of the reported crimes occurred in the City of Chicago from 2001 to 2017. 
+- Dataset has been obtained from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.
+- Dataset contains the following columns: 
     - ID: Unique identifier for the record.
     - Case Number: The Chicago Police Department RD Number (Records Division Number), which is unique to the incident.
     - Date: Date when the incident occurred.
