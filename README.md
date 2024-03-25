@@ -79,6 +79,14 @@ The Jupyter Notebook includes steps for importing the data, handling potential i
 - Handling missing values and unnecessary columns.
 - Visualizing crime counts by type and location.
 
+![image](https://github.com/Devansh-Gupta-Official/facebook-prophet-chicagocrime/assets/100591612/980426dc-7cbf-40f8-81c4-884acd1a7581)
+
+![image](https://github.com/Devansh-Gupta-Official/facebook-prophet-chicagocrime/assets/100591612/3e302198-22ca-4fb7-866f-bc0f2efca6d9)
+
+![image](https://github.com/Devansh-Gupta-Official/facebook-prophet-chicagocrime/assets/100591612/7925b521-d908-4991-a476-f043450aba5f)
+
+
+
 ## Time Series Analysis
 The project involves time series analysis to understand the trends in crime rates over the years.
 ### Data Preparation
@@ -88,6 +96,10 @@ The project involves time series analysis to understand the trends in crime rate
 ### Making Predictions
 - Using the Prophet library to make predictions on future crime rates.
 - Visualizing the predicted crime rates along with confidence intervals.
+
+![image](https://github.com/Devansh-Gupta-Official/facebook-prophet-chicagocrime/assets/100591612/ecb79423-5770-45bd-890f-822f76735398)
+
+![image](https://github.com/Devansh-Gupta-Official/facebook-prophet-chicagocrime/assets/100591612/ea80f474-3798-434a-ab3a-1d80e226458f)
 
 
 ## Conclusion
